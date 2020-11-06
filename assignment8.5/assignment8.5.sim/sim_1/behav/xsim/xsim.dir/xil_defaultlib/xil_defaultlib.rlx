@@ -1,0 +1,15 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sim_1/new/testbench.v,1604535026,verilog,,,,testbench,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/bcd.v,1604623581,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/counter controller.v,,bcd,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/counter controller.v,1604624304,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sim_1/new/testbench.v,,counterController,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/dispClk.v,1604451873,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/hzcounter.v,,dispClk,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/hzcounter.v,1604525647,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sim_1/new/testbench.v,,counter,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/mux.v,1604452182,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegAnodeDecoder.v,,mux,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegAnodeDecoder.v,1604514393,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegController.v,,ssegAnodeDecoder,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegController.v,1604452863,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegDecoder.v,,ssegController,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/ssegDecoder.v,1604452474,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/wrapper.v,,ssegDecoder,,,,,,,,
+C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sources_1/new/wrapper.v,1604513029,verilog,,C:/Users/Eastonco/Documents/EE214/assignment8.5/assignment8.5.srcs/sim_1/new/testbench.v,,wrapper,,,,,,,,

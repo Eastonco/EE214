@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Oct 13 20:43:29 2020
+# Process ID: 5024
+# Current directory: C:/Users/Eastonco/Documents/EE214/Assignment4.4/Assignment4.4.runs/synth_1
+# Command line: vivado.exe -log shifters.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source shifters.tcl
+# Log file: C:/Users/Eastonco/Documents/EE214/Assignment4.4/Assignment4.4.runs/synth_1/shifters.vds
+# Journal file: C:/Users/Eastonco/Documents/EE214/Assignment4.4/Assignment4.4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source shifters.tcl -notrace

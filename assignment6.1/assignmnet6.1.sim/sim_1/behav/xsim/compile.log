@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Eastonco/Documents/EE214/assignmnet6.1/assignmnet6.1.srcs/sources_1/new/delays.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CombCirc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Eastonco/Documents/EE214/assignmnet6.1/assignmnet6.1.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testFixture

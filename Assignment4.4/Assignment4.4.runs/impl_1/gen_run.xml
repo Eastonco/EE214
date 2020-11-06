@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z007sclg400-2" LaunchTime="1602647004">
+  <File Type="BITSTR-BMM" Name="shifters_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="shifters_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="shifters_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="shifters_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="shifters.tcl"/>
+  <File Type="OPT-TIMING" Name="shifters_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="shifters_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="shifters_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="shifters_reports.tcl"/>
+  <File Type="OPT-DRC" Name="shifters_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="shifters.hwdef"/>
+  <File Type="PWROPT-DCP" Name="shifters_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="shifters_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="shifters_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="shifters_placed.dcp"/>
+  <File Type="PLACE-IO" Name="shifters_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="shifters_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="shifters_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="shifters_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="shifters_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="shifters_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="shifters_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="shifters_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="shifters_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="shifters.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="shifters_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="shifters_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="shifters_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="shifters.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="shifters_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="shifters_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="shifters_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="shifters_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="shifters_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="shifters_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="shifters_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="shifters.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="shifters_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="shifters_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="shifters_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="shifters_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="shifters_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="shifters_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="shifters_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="shifters_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="shifters_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="shifters_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="shifters_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="shifters_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="shifters_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="shifters_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="shifters_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="shifters_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="shifters_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="shifters_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="shifters_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="shifters_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="shifters_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="shifters.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="shifters_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="shifters.rbt"/>
+  <File Type="BITSTR-NKY" Name="shifters.nky"/>
+  <File Type="PDI-FILE" Name="shifters.pdi"/>
+  <File Type="RCFI_FILE" Name="shifters.rcfi"/>
+  <File Type="CFI_FILE" Name="shifters.cfi"/>
+  <File Type="RNPI_FILE" Name="shifters.rnpi"/>
+  <File Type="NPI_FILE" Name="shifters.npi"/>
+  <File Type="RBD_FILE" Name="shifters.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="shifters.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="shifters.sysdef"/>
+  <File Type="BG-BGN" Name="shifters.bgn"/>
+  <File Type="BG-DRC" Name="shifters.drc"/>
+  <File Type="RDI-RDI" Name="shifters.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/shifters.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="shifters"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
