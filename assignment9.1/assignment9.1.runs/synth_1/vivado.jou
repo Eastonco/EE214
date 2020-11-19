@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov 18 17:11:08 2020
+# Process ID: 1036
+# Current directory: C:/Users/Eastonco/Documents/EE214/assignment9.1/assignment9.1.runs/synth_1
+# Command line: vivado.exe -log wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source wrapper.tcl
+# Log file: C:/Users/Eastonco/Documents/EE214/assignment9.1/assignment9.1.runs/synth_1/wrapper.vds
+# Journal file: C:/Users/Eastonco/Documents/EE214/assignment9.1/assignment9.1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source wrapper.tcl -notrace
